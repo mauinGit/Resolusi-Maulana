@@ -4,6 +4,7 @@ belajar menjadi fullstack developer
 html
 * nanti pake isian tabel
 * hasilnya lebih baik
+* cara membuat html
 css
 js
 c++
